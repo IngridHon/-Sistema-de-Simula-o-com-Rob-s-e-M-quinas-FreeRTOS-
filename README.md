@@ -65,6 +65,6 @@ QueueHandle_t depositoSaida;     // Depósito final após R4
 SemaphoreHandle_t semaforoM1;        // Controle de acesso para R2 e R3 ao depósito M1
 SemaphoreHandle_t semaforoEntregaR4; // Controle de acesso para R4 aos depósitos M2 e M3
 
-
+```
 Autor: Ingrid Honório da Silva - 119210830
 Guilherme Silveira 
