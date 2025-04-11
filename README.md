@@ -67,4 +67,7 @@ SemaphoreHandle_t semaforoEntregaR4; // Controle de acesso para R4 aos depósito
 
 ```
 Autor: Ingrid Honório da Silva - 119210830
-Guilherme Silveira 
+Guilherme Santos da Silveira - 124212387
+
+---- Vídeo de demonstração no youtube
+[https://youtu.be/ssoxLamEsm8](https://www.youtube.com/watch?v=ssoxLamEsm8)
